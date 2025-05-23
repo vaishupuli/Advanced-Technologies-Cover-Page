@@ -1,0 +1,48 @@
+
+.back_ground_image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+
+    background-size: cover;
+}
+
+.card {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.headings {
+    color: #5752ab;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.paragraphs {
+    color: #323f4b;
+
+}
+
+.first_buttons {
+    width: 30vw;
+    border-radius: 10px;
+    color: #171f46;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.second_button {
+    background-color: blue;
+    width: 30vw;
+    border-radius: 10px;
+    color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.buttons {
+
+    text-align: center;
+}
